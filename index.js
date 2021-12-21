@@ -149,7 +149,7 @@ const myskills = [
 
     let count = 0;
     
-    myintrest.style.backgroundImage = `url('./interest/${images[count]}.jpg')`;
+    myintrest.style.backgroundImage = `url('images[count].jpg')`;
 
         rightEl.addEventListener('click',function(){
 
