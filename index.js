@@ -173,7 +173,7 @@ const myskills = [
             
                 count = 5;
             }
-            myintrest.style.backgroundImage = `url('./interest/${images[count]}.jpg')`;
+            myintrest.style.backgroundImage = `url('image${count}.jpg')`;
 
         })
     }
